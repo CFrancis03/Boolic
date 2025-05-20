@@ -20,3 +20,4 @@ I’m fascinated by how lambda calculus—a super abstract way of thinking about
    ```bash
    git clone https://github.com/your-username/boolean-logic-evaluator.git
    cd boolean-logic-evaluator
+   python3 main.py
