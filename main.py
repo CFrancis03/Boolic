@@ -1,4 +1,4 @@
-```python
+
 # Lambda calculus Boolean evaluator: Implements TRUE, FALSE, AND, OR, NOT using Church encoding
 
 # --- Church-encoded Booleans ---
@@ -84,4 +84,3 @@ def repl():
 # --- Main entry point ---
 if __name__ == "__main__":
     repl()
-```
